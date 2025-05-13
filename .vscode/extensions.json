@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint", // Linting
+    "esbenp.prettier-vscode", // Code formatting
+    "xabikos.ReactSnippets", // React/JS snippets
+    "formulahendry.auto-rename-tag", // Renames paired JSX tags
+    "mongodb.mongodb-vscode", // MongoDB integration
+    "humao.rest-client", // REST client for testing APIs
+    "streetsidesoftware.code-spell-checker", // Optional spell checker
+    "pkief.material-icon-theme" // Nicer folder/file icons
+  ]
+}
